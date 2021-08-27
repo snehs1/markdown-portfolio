@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# My Name is Sophia Nehs
+### Welcome to my portfolio!
