@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ I am a recent graduate from **UW-Madison**. I know *both* Python and MATLAB programming languages. I have previous **research** experience in computational neuroscience.
